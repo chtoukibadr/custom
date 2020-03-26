@@ -1,3 +1,6 @@
-body {
-  background-color: coral;
+button, .button {
+    -moz-border-radius: 0.3125em;
+    -webkit-border-radius: 0.3125em;
+    border-radius: 0.3125em;
+    background: #456T56;
 }
