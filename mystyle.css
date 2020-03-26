@@ -1,6 +1,6 @@
-button, .button {
-    -moz-border-radius: 0.3125em;
-    -webkit-border-radius: 0.3125em;
-    border-radius: 0.3125em;
-    background: #456T56;
+.home-toolbar-button-group-button.selected {
+    background-color: #4a90e2;
+    color: white;
+    border-color: #2275d7;
+    visibility: hidden;
 }
