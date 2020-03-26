@@ -1,1 +1,5 @@
-loadjscssfile("https://chtoukibadr.github.io/custom/mystyle.css", "css")
+<script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
