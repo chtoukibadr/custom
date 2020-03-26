@@ -1,1 +1,1 @@
-loadjscssfile("mystyle.css", "css") ////dynamically load and add this .css file
+loadjscssfile("https://chtoukibadr.github.io/custom/mystyle.css", "css")
