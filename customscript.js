@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = "red";
+getElementsByClassName("home-toolbar-toggle-container").style.visibility = "hidden";
