@@ -1,3 +1,5 @@
+
+alert("Hello! I am an alert box!!");
 function injectStyles(rule) {
   var div = $("<div />", {
     html: '&shy;<style>' + rule + '</style>'
