@@ -1,1 +1,1 @@
-getElementsByClassName("home-toolbar-toggle-container").style.display = "none";
+getElementsByClassName("home-toolbar-toggle-container")[0].style.display = "none";
