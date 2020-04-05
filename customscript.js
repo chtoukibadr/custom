@@ -1,1 +1,1 @@
-getElementsByClassName("home-toolbar-toggle-container").style.visibility = "hidden";
+getElementsByClassName("home-toolbar-toggle-container").style.display = "none";
