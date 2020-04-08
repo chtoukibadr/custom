@@ -1,6 +1,6 @@
 alert("err");
-var elem = document.querySelector('#Link__link__3pNRT LoginLinks__link__1GboG');
-
+var elem = document.querySelector("label.input");
+console.log(elem);
 // Get HTML content
 var html = elem.innerHTML;
 
