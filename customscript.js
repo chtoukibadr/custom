@@ -1,1 +1,1 @@
-getElementsByClassName('home-toolbar-toggle-container').style.display = 'none';
+document.getElementByClass('.marketplace-lander-content').style.text-align = 'left';
