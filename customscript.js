@@ -1,1 +1,5 @@
-getElementById("input"). textContent = "Paragraph changed!";
+
+<script>
+var element = document.getElementByclassName("input");
+element.innerHTML = "New Heading";
+</script>
