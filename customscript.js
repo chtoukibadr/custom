@@ -1,1 +1,1 @@
-document.getElementByClassName("marketplace-lander-content").style.textAlign = "left";
+document.getElementByClassName('marketplace-lander-content').style.textAlign = 'left';
