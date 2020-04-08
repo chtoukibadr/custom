@@ -1,1 +1,1 @@
-  classes.marketplace-lander-content.style.textAlign= 'left';
+getElementById("new_listing"). textContent = "Paragraph changed!";
