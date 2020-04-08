@@ -6,3 +6,4 @@ var html = elem.innerHTML;
 
 // Set HTML content
 elem.innerHTML = 'Wsss';
+alert("ffldld");
