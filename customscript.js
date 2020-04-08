@@ -1,4 +1,4 @@
-alert("err");
+alert("err");alert("ffldld");
 var elem = document.querySelector("label.input");
 console.log(elem);
 // Get HTML content
