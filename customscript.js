@@ -1,3 +1,3 @@
-alert("err");alert("ffldld");
+alert("1");alert("2);
 var elem = document.querySelector(".marketplace-lander-content-title");
-alert("ffldldhhh");
+alert(elem);
