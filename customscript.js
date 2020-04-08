@@ -1,5 +1,4 @@
-
 <script>
-var element = document.getElementByclassName("input");
+var element = document.getElementByclassName("label");
 element.innerHTML = "New Heading";
 </script>
