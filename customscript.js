@@ -1,3 +1,3 @@
 <script type="text/javascript">
-  document.getElementsByClassName('marketplace-lander').style.textAlign = 'left';
+  document.getElementsByClassName('marketplace-lander')[0].style.textAlign = 'left';
 </script>
