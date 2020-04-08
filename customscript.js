@@ -4,4 +4,5 @@ $(function(){ // .ready() callback, is only executed when the DOM is fully loade
         // This is the evidence that this method is only called when the
         // DOM is fully loaded
         console.log(length);
-      });
+        alert("ff");
+    });
