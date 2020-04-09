@@ -5,7 +5,7 @@ window.onload = function () {  // make sure you run after the document has been 
 }
 
 function startcustomization() {
-	$(“a.Link__link__3pNRT”).css(‘text’,’bla bla’);
+	$(“a.Link__link__3pNRT”).css(‘color’,’red’);
 	console.log("cust started");  // good old debugging log statements.
  	var d = document.createElement("div");  // adding a div to hold our stuff
 	d.className = "listing-tweet-button"    // leveraging a existing css class
