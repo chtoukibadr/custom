@@ -6,7 +6,7 @@ window.onload = function () {  // make sure you run after the document has been 
 
 function startcustomization() {
 	
-	$(“.button”).hide();
+	$(“.toggle-header-container”).hide();
 	console.log("cust started");  // good old debugging log statements.
  	var d = document.createElement("div");  // adding a div to hold our stuff
 	d.className = "listing-tweet-button"    // leveraging a existing css class
